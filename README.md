@@ -1,16 +1,16 @@
-# workout_app
+<div>
+    <h1 style="text-align: center; color: #E0FE1F">S&C Workout Routine</h1>
+</div>
 
-A new Flutter project.
+<div style="text-align: center;">
+    <img src="assets/images/icons/s&c-logo-bw.png" alt="S&C Logo" width="35%">
+</div>
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+The S&C Workout Routine App is a mobile application designed for Strength and Conditioning (S&C). It aims to provide users with a comprehensive platform for managing and
+tracking their workout routines. The app offers a user-friendly interface for scheduling workouts, tracking progress, and staying motivated.
 
-A few resources to get you started if this is your first Flutter project:
+# Coming Soon
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The S&C Workout App is currently under development.
